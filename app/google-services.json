@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847208101297",
+    "project_id": "pc-api-7238891138983476531-591",
+    "storage_bucket": "pc-api-7238891138983476531-591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847208101297:android:32dc2d155e538ca7cbf990",
+        "android_client_info": {
+          "package_name": "com.spireon.forceupgradesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847208101297-4gubnu86stobkdc12l04c4memb9nsujc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofCRcKdwpsL1aUZKg-42VG57HushVw_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847208101297-4gubnu86stobkdc12l04c4memb9nsujc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
