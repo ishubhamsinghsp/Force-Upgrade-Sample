@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ForceUpgradeSample</string>
+
+    <!-- Force upgrade -->
+    <string name="new_update">We just got better!</string>
+    <string name="message_new_version_available">The new ForceUpgradeSample app is here. It\'s time for you to update so you can enjoy the latest fixes, features and fun.</string>
+    <string name="get_the_update">Get the update</string>
+    <string name="lbl_not_now">Not Now</string>
+    <string name="lbl_continue">Continue</string>
 </resources>
